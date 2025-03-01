@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d0d12c-bd5c-4901-b70d-c77ca1ca0dbe" name="Changes" comment="complete Assignment 1 Web Server">
-      <change beforePath="$PROJECT_DIR$/src/Assigment/1 WebServer/src/server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment/1 WebServer/src/server/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assigment/2 UDP Pinger/src/client/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assigment/2 UDP Pinger/src/server/UDPPingerServer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Computer Networking A Top-Down Approach Lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Computer Networking A Top-Down Approach Lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -21,24 +35,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Development/Language/Python/repos/Computer Networking A Top-Down Approach Lab&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.UDPPingerServer.executor": "Run",
+    "Python.client.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Development/Language/Python/repos/Computer Networking A Top-Down Approach Lab"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab" />
       <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\.venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\Assigment\2 UDP Pinger\src\server" />
+      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\Assigment\2 UDP Pinger\src" />
       <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab" />
       <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\src\Assigment\1 WebServer\src" />
       <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\src\Assigment\1 WebServer" />
-      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\src\Assigment\1 WebServer\server" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -81,11 +98,48 @@
       <option name="project" value="LOCAL" />
       <updated>1740817049062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change directory">
+      <option name="closed" value="true" />
+      <created>1740817232845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740817232845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add html file">
+      <option name="closed" value="true" />
+      <created>1740817251561</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740817251561</updated>
+    </task>
+    <task id="LOCAL-00006" summary="complete Assignment 1 Web Server">
+      <option name="closed" value="true" />
+      <created>1740817349979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740817349979</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set up" />
+    <MESSAGE value="change directory" />
+    <MESSAGE value="add html file" />
     <MESSAGE value="complete Assignment 1 Web Server" />
     <option name="LAST_COMMIT_MESSAGE" value="complete Assignment 1 Web Server" />
   </component>
