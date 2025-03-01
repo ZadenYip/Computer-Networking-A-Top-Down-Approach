@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2d0d12c-bd5c-4901-b70d-c77ca1ca0dbe" name="Changes" comment="" />
+    <list default="true" id="c2d0d12c-bd5c-4901-b70d-c77ca1ca0dbe" name="Changes" comment="complete Assignment 1 Web Server">
+      <change beforePath="$PROJECT_DIR$/src/Assigment/1 WebServer/src/server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment/1 WebServer/src/server/server.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +12,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2thuHrfjhoc4EdqpGnJqdRvyogu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Development/Language/Python/repos/Computer Networking A Top-Down Approach Lab&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab" />
+      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\.venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab" />
+      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\src\Assigment\1 WebServer\src" />
+      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\src\Assigment\1 WebServer" />
+      <recent name="D:\Development\Language\Python\repos\Computer Networking A Top-Down Approach Lab\src\Assigment\1 WebServer\server" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,6 +57,36 @@
       <option name="presentableId" value="Default" />
       <updated>1740816542807</updated>
     </task>
+    <task id="LOCAL-00001" summary="set up">
+      <option name="closed" value="true" />
+      <created>1740816739244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740816739244</updated>
+    </task>
+    <task id="LOCAL-00002" summary="set up">
+      <option name="closed" value="true" />
+      <created>1740816854044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740816854044</updated>
+    </task>
+    <task id="LOCAL-00003" summary="complete Assignment 1 Web Server">
+      <option name="closed" value="true" />
+      <created>1740817049062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740817049062</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set up" />
+    <MESSAGE value="complete Assignment 1 Web Server" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Assignment 1 Web Server" />
   </component>
 </project>
